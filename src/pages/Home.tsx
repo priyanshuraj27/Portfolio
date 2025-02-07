@@ -10,8 +10,7 @@ import { SiPytorch } from "react-icons/si";
 import { SiTensorflow } from "react-icons/si";
 import { SiScikitlearn } from "react-icons/si";
 import { SiKeras } from "react-icons/si";
-import { SiGooglecolab } from "react-icons/si";
-import { FaKaggle } from "react-icons/fa";
+
 
 
 export const Home = () => {
@@ -25,10 +24,7 @@ export const Home = () => {
     {name:"PyTorch",icon:SiPytorch},
     {name:"Tensorflow",icon:SiTensorflow},
     {name:"Scikit-Learn",icon:SiScikitlearn},
-    {name:"Keras",icon:SiKeras},
-    {name:"Colab Notebook",icon:SiGooglecolab},
-    {name:"Kaggle Notebook",icon:FaKaggle},
-
+    {name:"Keras",icon:SiKeras}
 ]
 
   return (
