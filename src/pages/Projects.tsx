@@ -26,7 +26,7 @@ export const Projects = () => {
       title: 'RAG applications with cloud vector Databases',
       description: 'A project demonstrating cloud-based  Generation techniques to improve real-time knowledge retrieval.',
       tags: ['Qdrant','AstraDB','Langchain'],
-      image: 'https://mma.prnewswire.com/media/1998516/Qdrant_Solutions_Logo.jpg?p=facebook'
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_OoKECJy1dtdM6h3Mguiz3nW7V0psl-4Kp5NsweQX-XPPmxbpeYmKmZvUXCX0tuZ9rM&usqp=CAU'
     }
   ];
 
